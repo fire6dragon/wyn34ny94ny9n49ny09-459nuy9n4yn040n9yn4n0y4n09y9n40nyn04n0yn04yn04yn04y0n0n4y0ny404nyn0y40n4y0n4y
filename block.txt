@@ -146,3 +146,4 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 ad-delivery.net
+0.0.0.0 cm.adform.net
